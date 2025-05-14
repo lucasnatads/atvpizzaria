@@ -7,8 +7,8 @@
 /* variáveis de cor, para realizar alterações
 :root usado para declaração das variáveis*/
 :root {
-  --color-primary: #ffa500;
-  --color-dark: #232323;
+  --color-primary: #f4a261;
+  --color-dark: #21190d;
   --color-light: #eaeaea;
   --color-white: #fff;
 }
